@@ -1,17 +1,2 @@
-ace-editor:latest
 matrix-auth:latest
 job-dsl:latest
-blueocean:latest
-filesystem_scm:latest
-workflow-aggregator:latest
-amazon-ecs:latest
-git:latest
-slack:latest
-timestamper:latest
-maven-plugin:latest
-pipeline-aws:latest
-parameterized-trigger:latest
-view-job-filters:latest
-extra-columns:latest
-ws-cleanup:latest
-startup-trigger-plugin:latest

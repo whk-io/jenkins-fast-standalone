@@ -1,8 +1,5 @@
 FROM jenkins/jenkins:latest
 USER root
-RUN apt-get update && apt-get install -y apt-utils
-RUN apt-get update && apt-get install -y ruby python python-pip jq
-RUN pip install awscli && gem install bundler
 ENV JENKINS_USER admin
 ENV JENKINS_PASS admin
 ENV JAVA_OPTS -Djenkins.install.runSetupWizard=false
