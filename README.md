@@ -5,9 +5,11 @@ This a slim little Jenkins server all setup and ready to log into.
 Login : admin
 <br>
 Password : admin
+<br>
+* Credentials set via the Dockefile ENV vars.
 
 ## Build and Run
 type : make
 
-## Access
+## Access Jenkins
 http://<ip_address>:9090
