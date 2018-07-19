@@ -1,6 +1,6 @@
 # Jenkins Fast Standalone
 
-This a slim little Jenkins server all setup and ready to log into in just under 30 seconds.
+This a slim little containerized Jenkins server all setup and ready to login to in just under 30 seconds.
 <hr>
 Login : admin
 <br>
