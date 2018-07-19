@@ -14,3 +14,4 @@ parameterized-trigger:latest
 view-job-filters:latest
 extra-columns:latest
 ws-cleanup:latest
+startup-trigger-plugin:latest

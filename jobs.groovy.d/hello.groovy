@@ -1,6 +1,7 @@
-// execute echo command
-job('example-1') {
+// execute echo command at startup
+job('Hello') {
+    label('master')
     steps {
-        shell('echo Hello World!')
+        shell('echo Nice to meet you!')
     }
 }
