@@ -7,7 +7,7 @@ Login : admin
 Password : admin
 <br><br>
 * Credentials set via the Dockefile ENV vars.
-* Please do not use this in production without some better authetican mechanism wired up.
+* Please do not use this in production without some better authentication mechanism wired up.
 * You have been warned.
 
 ## Build and Run
