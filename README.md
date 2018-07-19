@@ -5,9 +5,9 @@ This a slim little Jenkins server all setup and ready to log into.
 Login : admin
 <br>
 Password : admin
-<br><br>
+<br>
 * Credentials set via the Dockefile ENV vars.
-* Please do not use this in production without some better authentication mechanism wired up.
+* Please do not use this in production without a better authentication mechanism wired up.
 * You have been warned.
 
 ## Build and Run
