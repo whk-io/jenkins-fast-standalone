@@ -11,5 +11,5 @@ Password : admin
 ## Build and Run
 type : make
 
-## Access
+## Access Jenkins
 http://<ip_address>:9090
