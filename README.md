@@ -11,8 +11,17 @@ Password : admin
 * Please do not use this in production without a better authentication mechanism wired up.
 * You have been warned.
 
+## Requirements
+
+docker & make
+
 ## Build and Run
-type : make
+
+type make or make build to build the image
+
+type make run to run and test the image
+
+type make all to build and run the image
 
 ## Access Jenkins
 http://<ip_address>:9090
