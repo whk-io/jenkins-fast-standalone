@@ -1,5 +1,7 @@
 # Jenkins Fast Standalone
 
+* This build is a bit heavier as it builds the latest git binaries & installs Docker-CE
+
 This a slim little containerized Jenkins server all setup and ready to login to in just under 30 seconds.
 <hr>
 Login : admin
