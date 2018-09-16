@@ -1,4 +1,4 @@
-FROM jenkins/jenkins:latest
+FROM jenkins/jenkins:lts-alpine
 USER root
 ENV JENKINS_USER admin
 ENV JENKINS_PASS admin
