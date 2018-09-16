@@ -1,6 +1,6 @@
 # Jenkins Slim
 
-This a slim containerized Jenkins server all setup and ready to login to in just under 30 seconds.
+This is a slim containerized Jenkins server setup and ready to go.
 <hr>
 Login : admin
 <br>
