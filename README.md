@@ -1,6 +1,6 @@
 # Jenkins Slim
 
-A slim containerized Jenkins server setup and ready to go. .
+A slim containerized Jenkins server setup and ready to go.
 <hr>
 Login : admin
 <br>
